@@ -1,0 +1,10 @@
+###join
+POST http://localhost:8080/join/manager
+Content-Type: application/json
+
+{
+  "name" : "홍길동",
+  "email" : "email@email.com",
+  "password": "0000",
+  "phone": "01012345678"
+}
