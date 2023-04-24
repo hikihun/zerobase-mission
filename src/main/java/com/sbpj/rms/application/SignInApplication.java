@@ -6,8 +6,8 @@ import com.sbpj.rms.domain.form.SignInForm;
 import com.sbpj.rms.domain.model.Customer;
 import com.sbpj.rms.domain.model.Manager;
 import com.sbpj.rms.exception.CustomException;
-import com.sbpj.rms.service.CustomerService;
-import com.sbpj.rms.service.ManagerService;
+import com.sbpj.rms.service.customer.CustomerService;
+import com.sbpj.rms.service.manager.ManagerService;
 import lombok.RequiredArgsConstructor;
 import org.springframework.stereotype.Service;
 

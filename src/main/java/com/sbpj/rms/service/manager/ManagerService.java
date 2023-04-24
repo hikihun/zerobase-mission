@@ -1,4 +1,4 @@
-package com.sbpj.rms.service;
+package com.sbpj.rms.service.manager;
 
 import com.sbpj.rms.domain.form.SignUpForm;
 import com.sbpj.rms.domain.form.UpdateReservationForm;
