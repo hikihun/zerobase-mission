@@ -1,5 +1,5 @@
 ###join
-POST http://localhost:8080/join/manager
+POST http://localhost:8080/signup/manager
 Content-Type: application/json
 
 {

@@ -6,14 +6,14 @@ spring:
   # Database Setting Info
   datasource:
     driver-class-name: org.h2.Driver
-    url: jdbc:h2:mem:test1
+    url: jdbc:h2:~/test9
     username: sa
     password:
 
 
   jpa:
     hibernate:
-      ddl-auto: create
+      ddl-auto: create-drop
     properties:
       hibernate:
         show_sql: true
