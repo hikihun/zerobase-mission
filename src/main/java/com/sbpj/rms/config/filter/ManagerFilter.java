@@ -2,7 +2,7 @@ package com.sbpj.rms.config.filter;
 
 import com.sbpj.rms.config.jwt.JwtAuthenticationProvider;
 import com.sbpj.rms.config.jwt.UserVo;
-import com.sbpj.rms.service.ManagerService;
+import com.sbpj.rms.service.manager.ManagerService;
 import lombok.RequiredArgsConstructor;
 
 import javax.servlet.*;
